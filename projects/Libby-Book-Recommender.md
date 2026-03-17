@@ -1,4 +1,3 @@
-# Libby 推荐 / AI Librarian
 
 An interactive React-based AI librarian application that helps users discover Chinese books through natural conversation. The app uses Google Gemini function calling to understand reader preferences, search the NLB Libby catalog, and present tailored book recommendations in a warm bilingual interface.
 
