@@ -3,8 +3,16 @@
     "id": "this-Website",
     "title": "this website",
     "description": "I wrote this website using React and ts",
-    "demoLink": "null",
+    "demoLink": "",
     "githubLink": "https://github.com/144353/This-Website",
     "tags": ["Web Dev"]
+  },
+  {
+    "id": "Libby Book Recommender",
+    "title": "Libby Book Recommender",
+    "description": "I wrote this website using React and ts",
+    "demoLink": "",
+    "githubLink": "https://github.com/144353",
+    "tags": ["AI", "LLM", "React", "TypeScript"]
   }
 ]

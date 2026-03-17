@@ -1,0 +1,1 @@
+An AI-powered librarian that chats with users in Simplified Chinese (with English translations) to understand their reading preferences, then recommends books available through NLB's Libby app.
