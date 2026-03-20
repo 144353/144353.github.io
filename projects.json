@@ -14,5 +14,13 @@
     "demoLink": "",
     "githubLink": "https://github.com/144353",
     "tags": ["AI", "LLM", "React", "TypeScript", "On-Going"]
+  },
+  {
+    "id": "DriverInjuryPredication",
+    "title": "Driver Injury Predication",
+    "description": "I used the car crash data provided by NHTSA and leveraged data mining skills to analyze the data and suggest a suitable data mining model that can best predict the injury severity of the drivers.",
+    "demoLink": "",
+    "githubLink": "https://github.com/144353",
+    "tags": ["Machine-Learning", "Predictive-modeling"]
   }
 ]
