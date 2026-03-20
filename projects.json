@@ -20,7 +20,7 @@
     "title": "Driver Injury Predication",
     "description": "I used the car crash data provided by NHTSA and leveraged data mining skills to analyze the data and suggest a suitable data mining model that can best predict the injury severity of the drivers.",
     "demoLink": "",
-    "githubLink": "https://github.com/144353",
+    "githubLink": "https://github.com/144353/DriverInjuryPredication",
     "tags": ["Machine-Learning", "Predictive-modeling"]
   }
 ]
