@@ -20,7 +20,15 @@
     "title": "Driver Injury Predication",
     "description": "I used the car crash data provided by NHTSA and leveraged data mining skills to analyze the data and suggest a suitable data mining model that can best predict the injury severity of the drivers.",
     "demoLink": "",
-    "githubLink": "https://github.com/144353",
+    "githubLink": "https://github.com/144353/DriverInjuryPredication",
     "tags": ["Machine-Learning", "Predictive-modeling"]
+  },
+  {
+    "id": "ITAD-Smart_aricultural_solution",
+    "title": "Smart aricultural solution",
+    "description": "Simulated smart agriculture system that monitors real-time environmental conditions in indoor farms using AWS cloud services to optimise crop growth and automate farmer alerts.",
+    "demoLink": "",
+    "githubLink": "https://github.com/144353/ITAD-Smart_agricultural_soltution",
+    "tags": ["Iot"]
   }
 ]
