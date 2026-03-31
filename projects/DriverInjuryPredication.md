@@ -1,4 +1,4 @@
-# Crash Severity Prediction Project Plan
+# Crash Severity Prediction Project
 
 ## Project Overview
 
